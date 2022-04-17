@@ -1,1 +1,1 @@
-# profile-presence-node.js
+# profile-discord-presence-node.js
